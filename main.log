@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.4)  5 OCT 2021 03:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.4)  6 OCT 2021 02:21
 entering extended mode
 **./main.tex
 (main.tex
@@ -166,6 +166,15 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -213,41 +222,79 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 18
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
 
-{C:/Users/shyamal guchhait/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] 
-[3]
+{C:/Users/shyamal guchhait/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 39.
+LaTeX Warning: Command \textendash invalid in math mode on input line 37.
 
-
-Overfull \hbox (5.91736pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 (See Sup-ple-men-tary Note 1) and ex-plained by a valley-resolv
-ed Jaynes{Cummings
- []
-
-Excluding 'comment' comment. [4] [5] [6] [7]
-<Figures/figure1a.png, id=39, 627.84563pt x 441.90094pt>
+[3] [4] [5] [6]
+<Figures/figure1a.png, id=35, 627.84563pt x 441.90094pt>
 File: Figures/figure1a.png Graphic file (type png)
 <use Figures/figure1a.png>
-Package pdftex.def Info: Figures/figure1a.png  used on input line 200.
+Package pdftex.def Info: Figures/figure1a.png  used on input line 191.
 (pdftex.def)             Requested size: 169.05115pt x 140.52786pt.
-<Figures/figure1b.png, id=41, 458.46281pt x 353.82187pt>
+<Figures/figure1b.png, id=37, 458.46281pt x 353.82187pt>
 File: Figures/figure1b.png Graphic file (type png)
 <use Figures/figure1b.png>
-Package pdftex.def Info: Figures/figure1b.png  used on input line 206.
+Package pdftex.def Info: Figures/figure1b.png  used on input line 198.
 (pdftex.def)             Requested size: 169.05495pt x 140.52744pt.
- [8] [9 <./Figures/figure1a.png> <./Figures/figure1b.png>] [10] (main.aux)
+ [7]
+<Figures/figure2a.png, id=43, 172.39406pt x 173.14688pt>
+File: Figures/figure2a.png Graphic file (type png)
+<use Figures/figure2a.png>
+Package pdftex.def Info: Figures/figure2a.png  used on input line 211.
+(pdftex.def)             Requested size: 169.0519pt x 169.7911pt.
+<Figures/figure2b.png, id=44, 172.39406pt x 172.39406pt>
+File: Figures/figure2b.png Graphic file (type png)
+<use Figures/figure2b.png>
+Package pdftex.def Info: Figures/figure2b.png  used on input line 218.
+(pdftex.def)             Requested size: 169.0519pt x 169.05287pt.
+<Figures/figure2c.png, id=45, 172.39406pt x 172.39406pt>
+File: Figures/figure2c.png Graphic file (type png)
+<use Figures/figure2c.png>
+Package pdftex.def Info: Figures/figure2c.png  used on input line 225.
+(pdftex.def)             Requested size: 169.0519pt x 169.05287pt.
+<Figures/figure2d.png, id=46, 172.39406pt x 175.40532pt>
+File: Figures/figure2d.png Graphic file (type png)
+<use Figures/figure2d.png>
+Package pdftex.def Info: Figures/figure2d.png  used on input line 232.
+(pdftex.def)             Requested size: 169.0519pt x 172.00575pt.
+ [8 <./Figures/figure1a.png> <./Figures/figure1b.png>]
+<Figures/figure4a.png, id=53, 164.86594pt x 157.33781pt>
+File: Figures/figure4a.png Graphic file (type png)
+<use Figures/figure4a.png>
+Package pdftex.def Info: Figures/figure4a.png  used on input line 244.
+(pdftex.def)             Requested size: 169.0519pt x 161.33711pt.
+<Figures/figure4b.png, id=54, 164.11313pt x 157.33781pt>
+File: Figures/figure4b.png Graphic file (type png)
+<use Figures/figure4b.png>
+Package pdftex.def Info: Figures/figure4b.png  used on input line 251.
+(pdftex.def)             Requested size: 169.0519pt x 162.07414pt.
+<Figures/figure4c.png, id=55, 164.86594pt x 157.33781pt>
+File: Figures/figure4c.png Graphic file (type png)
+<use Figures/figure4c.png>
+Package pdftex.def Info: Figures/figure4c.png  used on input line 258.
+(pdftex.def)             Requested size: 169.0519pt x 161.33711pt.
+<Figures/figure4d.png, id=56, 164.86594pt x 160.34906pt>
+File: Figures/figure4d.png Graphic file (type png)
+<use Figures/figure4d.png>
+Package pdftex.def Info: Figures/figure4d.png  used on input line 265.
+(pdftex.def)             Requested size: 169.0519pt x 164.4249pt.
+
+[9] [10 <./Figures/figure2a.png> <./Figures/figure2b.png> <./Figures/figure2c.p
+ng> <./Figures/figure2d.png>] [11 <./Figures/figure4a.png> <./Figures/figure4b.
+png> <./Figures/figure4c.png> <./Figures/figure4d.png>] (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3957 strings out of 478927
- 60632 string characters out of 2862357
- 376690 words of memory out of 3000000
- 21790 multiletter control sequences out of 15000+600000
+ 4031 strings out of 478927
+ 62214 string characters out of 2862357
+ 377690 words of memory out of 3000000
+ 21856 multiletter control sequences out of 15000+600000
  410409 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,10n,81p,4417b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,10n,81p,4160b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type
@@ -263,9 +310,9 @@ ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/rs
 fs/rsfs10.pfb>
-Output written on main.pdf (10 pages, 1052680 bytes).
+Output written on main.pdf (11 pages, 1376152 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
+ 144 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
